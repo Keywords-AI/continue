@@ -41,6 +41,7 @@ You can deploy a model in your [AWS](https://github.com/continuedev/deploy-os-co
 
 You can access both open-source and commercial LLMs via:
 * [OpenRouter](../reference/Model%20Providers/openrouter.md)
+* [Keywords AI](../reference/Model%20Providers/keywordsai.md)
 
 ### Open-source models
 
